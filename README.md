@@ -39,7 +39,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
   
 </div>
-<div></div>
+
+<hr>
 
 ### :man_technologist: About Me :
 <div>
@@ -52,9 +53,10 @@ Here are some ideas to get you started:
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 </div>
 
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="100" height="100"/>&nbsp;
@@ -91,8 +93,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Apache" alt="Apache" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="100" height="100"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="100" height="100"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" alt="GoogleCloud" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="100" height="100"/>&nbsp;
@@ -104,4 +105,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="100" height="100"/>&nbsp;
 </div>
 
+<hr>
 ### :fire: My Stats :
