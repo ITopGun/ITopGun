@@ -106,4 +106,9 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itopgun&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itopgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
