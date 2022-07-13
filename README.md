@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://myaccount.google.com/pb891215@gmail.com">
       <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
     </a>
     <a href="your-twitter-URL">
