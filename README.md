@@ -38,4 +38,6 @@ Here are some ideas to get you started:
     </a>
   </div>
   
+  <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
+  
 </div>
