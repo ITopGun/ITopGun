@@ -19,4 +19,23 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  
 </div>
