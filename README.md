@@ -21,19 +21,19 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.freelancer.com/u/plabrash">
       <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
     </a>
     <a href="https://myaccount.google.com/pb891215@gmail.com">
       <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://join.skype.com/invite/vPyD4Zm0sF1r">
       <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://t.me/peter941228">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
