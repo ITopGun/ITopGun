@@ -39,6 +39,19 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
   
 </div>
+<div></div>
+
+### :man_technologist: About Me :
+<div>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kalamazoo, MI, USA.
+  
+- :telescope: I’m working as a Full-stack and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -90,3 +103,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="Vscode" alt="Vscode" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="100" height="100"/>&nbsp;
 </div>
+
+### :fire: My Stats :
