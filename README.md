@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 </div>
 
-[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/notext/itopgun/AlamNFT-Front-Hub)](https://github.com/itopgun/AlamNFT-Front-Hub/stargazers)
+[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/notext/itopgun/Graphql-PHP)](https://github.com/itopgun/Graphql-PHP/stargazers)
 
 <hr>
 
