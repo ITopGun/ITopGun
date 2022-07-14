@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <a href="https://join.skype.com/invite/vPyD4Zm0sF1r">
       <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://github.com/ITopGun">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
     <a href="https://t.me/peter941228">
