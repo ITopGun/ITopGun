@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 </div>
 
+
+
+[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/notext/itopgun/ITopGun)](https://github.com/USERNAME/REPO_NAME/stargazers)
+
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
