@@ -130,7 +130,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+ <a href="https://www.freelancer.com/u/plabrash">
   <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=7&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
+ </a>
 </div>
 
 <!--
