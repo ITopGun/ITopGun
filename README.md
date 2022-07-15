@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  
+
+  <div id="logo" align="center">
+   <a href="https://www.freelancer.com/u/plabrash">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  </a>
+ </div> 
   <div id="badges">
     <a href="https://www.freelancer.com/u/plabrash">
       <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
