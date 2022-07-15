@@ -115,8 +115,22 @@ Here are some ideas to get you started:
 
 <hr>
 
+### :fire: Github Stats
+
+<div align="center">
+  <a href="https://github.com/HOT-DEV">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ITopGun&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITopGun&layout=compact&langs_count=7&theme=gruvbox" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+</div>
+
+<!--
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itopgun&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itopgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
