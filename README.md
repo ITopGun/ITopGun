@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+ <a href="https://github.com/HOT-DEV">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Fullstack+Developer;Fluent+in+English;Unlimited+Revisions+and+Proper+Testing;Daily+Progress+Updates;&center=true&width=450&height=50&font=georgia">
+  </a>
+</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
