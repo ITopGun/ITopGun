@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 
   <div id="logo" align="center">
-   <a href="https://www.freelancer.com/u/plabrash">
+   <a href="https://github.com/ITopGun">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   </a>
  </div> 
   <div id="badges">
-    <a href="https://www.freelancer.com/u/plabrash">
-      <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
+    <a href="https://www.guru.com/freelancers/peter-la-brash">
+      <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
     </a>
     <a href="https://myaccount.google.com/pb891215@gmail.com">
       <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
