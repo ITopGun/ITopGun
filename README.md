@@ -124,8 +124,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/itopgun">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ITopGun&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITopGun&layout=compact&langs_count=7&theme=white" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fzaninotto&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzaninotto&layout=compact&langs_count=7&theme=white" />
   </a>
 </div>
 
