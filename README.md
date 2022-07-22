@@ -131,9 +131,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  <a href="https://github.com/ITopGun">
-  <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=7&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=8&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
  </a>
 </div>
+
+
 
 <!--
 ### :fire: My Stats :
