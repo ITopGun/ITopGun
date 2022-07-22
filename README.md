@@ -124,14 +124,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/itopgun">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fzaninotto&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzaninotto&layout=compact&langs_count=7&theme=white" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=itopgun&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itopgun&layout=compact&langs_count=7&theme=white" />
   </a>
 </div>
 
 <div align="center">
  <a href="https://github.com/ITopGun">
-  <img src="https://github-profile-trophy.vercel.app/?username=fzaninotto&column=9&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=9&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
  </a>
 </div>
 
