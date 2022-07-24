@@ -129,11 +129,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
- <a href="https://github.com/ITopGun">
-  <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=9&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
- </a>
-</div>
+
 
 
 
@@ -143,4 +139,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itopgun&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itopgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+ <a href="https://github.com/ITopGun">
+  <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=9&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
+ </a>
+</div>
 -->
