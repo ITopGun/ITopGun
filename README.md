@@ -104,8 +104,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Apache" alt="Apache" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="50" height="50"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" alt="GoogleCloud" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="50" height="50"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="50" height="50"/>&nbsp;
@@ -146,4 +145,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-plain.svg" title="php" alt="CakePHP" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="Vuetify" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" alt="GoogleCloud" width="50" height="50"/>&nbsp;
 -->
