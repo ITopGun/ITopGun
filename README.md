@@ -78,7 +78,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-plain.svg" title="php" alt="CakePHP" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="php" alt="CI" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
@@ -145,4 +144,7 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=itopgun&column=9&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
  </a>
 </div>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-plain.svg" title="php" alt="CakePHP" width="50" height="50"/>&nbsp;
+
 -->
