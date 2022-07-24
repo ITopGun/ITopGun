@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### :fire: Github Stats
+### :fire: Github Statistics
 
 <div align="center">
   <a href="https://github.com/itopgun">
