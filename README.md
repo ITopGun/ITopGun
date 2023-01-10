@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <br>
-<div>
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
@@ -112,7 +112,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="SourceTree" alt="SourceTree" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="Vscode" alt="Vscode" width="50" height="50"/>&nbsp;  
-</div>
+</div> -->
+
+### :point_right: Front-end
+HTML, CSS, JavaScript, TypeScript, React, Vue, jQuery, Bootstrap, Tailwind CSS, Material UI, Kendo UI, Styled Component.
 
 <hr>
 
