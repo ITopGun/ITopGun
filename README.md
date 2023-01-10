@@ -117,6 +117,7 @@ Here are some ideas to get you started:
 :point_right: MySQL, MongoDB, MariaDB, PostgreSQL, GraphQL, Firebase. <br>
 :point_right: AWS (Amazon Web Server), Bluehost, Godaddy, Apache, Nginx, Heroku. <br>
 :point_right: Android, Java, React Native, Flutter <br>
+:point_right: Git, GitHub, GitLab, Bitbucket <br>
 <hr>
 
 <!-- ### :fire: Github Statistics
