@@ -46,13 +46,8 @@ Here are some ideas to get you started:
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
- 
- <div>
-  
-  🤔 Our goal is to make the best things in the world, not to be the biggest.
- </div>
-  
+  <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/> 
+   
 </div>
 
 <hr>
@@ -66,6 +61,7 @@ Here are some ideas to get you started:
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🤔 Our goal is to make the best things in the world, not to be the biggest.
 </div>
 
 <!-- 
