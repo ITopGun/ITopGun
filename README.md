@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div id="header" align="center">
-
+  🗣️ Quality is more important than quantity. One home run is much better than two doubles . <br>
   <div id="logo" align="center">
    <a href="https://github.com/ITopGun">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
  
  <div>
-  🗣️ Quality is more important than quantity. One home run is much better than two doubles . <br>
+  
   🤔 Our goal is to make the best things in the world, not to be the biggest.
  </div>
   
