@@ -45,12 +45,13 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
  
  <div>
   🗣️ Quality is more important than quantity. One home run is much better than two doubles . <br>
+  🤔 Our goal is to make the best things in the world, not to be the biggest.
  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=itopgun&style=flat-square&color=blue" alt=""/>
   
 </div>
 
