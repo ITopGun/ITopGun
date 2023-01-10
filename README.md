@@ -68,8 +68,6 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-### ✨ Skill Set ✨
-<br>
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
@@ -114,10 +112,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="Vscode" alt="Vscode" width="50" height="50"/>&nbsp;  
 </div> -->
 
-:point_right: 
-HTML, CSS, JavaScript, TypeScript, React, Vue, jQuery, Bootstrap, Tailwind CSS, Material UI, Kendo UI, Styled Component.
+:point_right: HTML, CSS, JavaScript, TypeScript, React, Vue, jQuery, Bootstrap, Tailwind CSS, Material UI, Kendo UI, Styled Component.
 <br>
 :point_right: (Laravel, CodeIgniter, CakePHP) / PHP, ExpressJS / Node.js, Django / Python, FastAPI
+:point_right: MySQL, MongoDB, MariaDB, PostgreSQL, GraphQL, Firebase.
+:point_right: AWS (Amazon Web Server), Bluehost, Godaddy, Apache, Nginx, Heroku.
+:point_right: Android, Java, React Native, Flutter
 <hr>
 
 <!-- ### :fire: Github Statistics
