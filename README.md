@@ -116,17 +116,18 @@ Here are some ideas to get you started:
 
 :point_right: 
 HTML, CSS, JavaScript, TypeScript, React, Vue, jQuery, Bootstrap, Tailwind CSS, Material UI, Kendo UI, Styled Component.
-
+<br>
+:point_right: (Laravel, CodeIgniter, CakePHP) / PHP, ExpressJS / Node.js, Django / Python, FastAPI
 <hr>
 
-### :fire: Github Statistics
+<!-- ### :fire: Github Statistics
 
 <div align="center">
   <a href="https://github.com/itopgun">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=itopgun&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itopgun&layout=compact&langs_count=7&theme=white" />
   </a>
-</div>
+</div> -->
 
 
 
